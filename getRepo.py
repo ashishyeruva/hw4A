@@ -1,7 +1,7 @@
 """
 Name: Ashish Reddy Yeruva
 Cwid:20012794
-Subject: SSW - 567 WC
+Subject: SSW - 567 WS
 HW 04a Homework 04a
 """
 
